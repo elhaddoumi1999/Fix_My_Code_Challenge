@@ -37,4 +37,3 @@ if __name__ == '__main__':
 
     number = int(sys.argv[1])
     fizzbuzz(number)
-
